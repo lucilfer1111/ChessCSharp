@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Chess.BoardSquare" Collapsed="true">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>BoardSquare.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chess.Computer" Collapsed="true">
+    <Position X="8.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAgAAAACAAECgAAAAAAAAAAg=</HashCode>
+      <FileName>Computer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chess.FenStringUtility" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQgCBAAAAAAACAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>FenStringUtility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chess.GameControl" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAIAgAQgAIAAQEAAICAAAQAAAEwAQUgQAABgAKAUAAA=</HashCode>
+      <FileName>GameControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chess.GameWindow" Collapsed="true">
+    <Position X="8.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QQIAAAIAAaAAoUEAEgXMAkRCBBAIUAACBFwAEBAAAEI=</HashCode>
+      <FileName>GameWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chess.LocationInscentives" Collapsed="true">
+    <Position X="10.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAABAAAACCAgAAAAgAAAAAAAAAAAAAAAAACAAQ=</HashCode>
+      <FileName>LocationInscentives.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chess.Menu" Collapsed="true">
+    <Position X="7" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACABABACAAAEAAAACAAAAKAAggAAAAAAAAAEBAAIA=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chess.Move" Collapsed="true">
+    <Position X="4.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIIAAAAgAAAIAAAAAA=</HashCode>
+      <FileName>Move.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chess.MoveStack" Collapsed="true">
+    <Position X="7" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAFACAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>MoveStack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chess.OpeningBook" Collapsed="true">
+    <Position X="9.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAIAAAAAAAAAAAxAAAQAAAAAEAAAAAAA=</HashCode>
+      <FileName>OpeningBook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chess.Options" Collapsed="true">
+    <Position X="2.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAADQAABCAAQCAAAICEAAAAAAAAAAAAgBgQAA=</HashCode>
+      <FileName>Options.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chess.Piece" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gICEAAAAAAEgggAEAEAAAAQABAAAAIAAIQAoCBEAAAA=</HashCode>
+      <FileName>Piece.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chess.PieceLocator" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAgBACQAABAAASAIQAAAAAACAAAMAAAAAAE=</HashCode>
+      <FileName>PieceLocator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chess.Program" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chess.RuleBook" Collapsed="true">
+    <Position X="3.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CABgABAAIAAZABAAIYoAQAABhAAgAAEQBAABEIhMCUg=</HashCode>
+      <FileName>RuleBook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Forms.PictureBox" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
